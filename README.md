@@ -1,4 +1,13 @@
-# Starter Next/Hardhat Project
+# Sum of Fibonacci and Prime Numbers
+
+## Description
+
+
+This contract consists of two major functions in the first one it is going to return you the sum of first 7 digits of fibonacci series and  in the second contract it is going to return you the sum of first 7 prime numbers. The main thing is that this contract has been connected to a frontend
+
+
+## Running this code
+
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,3 +19,17 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+
+## LICENESE
+
+
+This particular contract is unlicensed.
+
+## Authors
+
+
+Suraj.R
+
+
+@surajx070@gmail.com
